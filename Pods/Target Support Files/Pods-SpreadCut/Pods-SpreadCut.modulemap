@@ -1,0 +1,6 @@
+framework module Pods_SpreadCut {
+  umbrella header "Pods-SpreadCut-umbrella.h"
+
+  export *
+  module * { export * }
+}
